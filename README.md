@@ -11,3 +11,5 @@ About Me
 - 📫 How to reach me: amisoni.java@gmail.com
 
 - ⚡ Fun fact: I am a Passionate Learner , Developer , Freelancer
+- 
+https://profile-counter.glitch.me/%7BAmiSoni%7D/count.svg
