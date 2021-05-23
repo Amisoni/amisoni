@@ -1,4 +1,4 @@
-Hi 👋 I Am Ami Soni
+Hi 👋 I'm Ami Soni :aries:
 
 About Me 
 
@@ -11,3 +11,5 @@ About Me
 - 📫 How to reach me: amisoni.java@gmail.com
 
 - ⚡ Fun fact: I am a Passionate Learner , Developer , Freelancer
+
+- 📑 Visit My Website: https://amisoni-portfolio.web.app/
