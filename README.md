@@ -11,12 +11,10 @@ About Me
 - 📫 How to reach me: amisoni.java@gmail.com
 
 - ⚡ Fun fact: I am a Passionate Learner , Developer , Freelancer
-- 
-- [![Website](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/ws.svg)](https://praveen.science/) 
-- 
-- https://img.shields.io/badge/<your label>-<value>-<background color>.svg?&style=for-the-badge&logo=<icon here>
 
 - 📑 Visit My Website: https://amisoni-portfolio.web.app/
+ 
+     [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ami-soni/)
 
 - ![](https://komarev.com/ghpvc/?username=your-github-AmiSoni&color=ff69b4)
 
@@ -26,4 +24,3 @@ About Me
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiSoni&theme=tokyonight)                     
  
-[![Visits Badge](https://badges.pufler.dev/visits/AmiSoni/AmiSoni)](https:AmiSoni.dev)
