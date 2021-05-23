@@ -13,3 +13,6 @@ About Me
 - ⚡ Fun fact: I am a Passionate Learner , Developer , Freelancer
 
 - 📑 Visit My Website: https://amisoni-portfolio.web.app/
+
+- ![](https://komarev.com/ghpvc/?username=your-github-AmiSoni&color=ff69b4)
+
