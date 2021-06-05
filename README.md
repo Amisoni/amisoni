@@ -37,13 +37,12 @@
 ![](https://img.shields.io/badge/Code-Stackoverflow-informational?style=flat&logo=Stackoverflow&logoColor=white&color=orange)
 <h2> :white_square_button: Tools </h2>
 
-![](https://img.shields.io/badge/Tools-NetBeans-informational?style=flat&logo=NetBeans&logoColor=white&color=green)
+![](https://img.shields.io/badge/Tools-NetBeans-informational?style=flat&logo=Apache%20NetBeans%20IDE&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Tools-eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Tools-pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=green)
-
-
+![](https://img.shields.io/badge/Tools-VisualStudio-informational?style=flat&logo=Visual%20Studio%20Code&logoColor=white&color=green)
 
 
 <h2>GitHub Stats </h2>
