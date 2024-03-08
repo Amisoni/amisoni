@@ -12,8 +12,6 @@
 :point_right: 📫 How to reach me: amisoni.java@gmail.com
 
 :point_right: ⚡ Fun fact: I am a Passionate Learner , Developer , Freelancer
-
-:point_right: 📑 Visit My Website: https://amisoni-portfolio.web.app/
  
 :large_orange_diamond:
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/ami-soni/)
